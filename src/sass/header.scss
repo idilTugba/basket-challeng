@@ -1,0 +1,24 @@
+header{
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    .container{
+        justify-content: flex-end;
+        align-items: center;
+        height: 100%;
+        @media screen and (max-width: 1024px) {
+            align-items: flex-end;
+        }
+    }
+    a{
+        margin-right: 20px;
+        font-size: 20px;
+        text-decoration: none;
+        color: #333;
+        &:hover{
+            color: blue;
+        }
+    }
+}

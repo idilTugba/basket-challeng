@@ -1,0 +1,87 @@
+.product-catalogue{
+    .container{
+        display: grid;
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+        grid-template-columns: auto auto auto auto auto;
+        @media screen and (max-width: 1330px){
+            grid-template-columns: auto auto auto auto;
+        }
+        @media screen and (max-width: 1080px){
+            grid-template-columns: auto auto auto;
+        }
+        @media screen and (max-width: 768px){
+            grid-template-columns: auto auto;
+        }
+        @media screen and (max-width: 576px){
+            grid-template-columns: auto;
+        }
+    }
+    &__item{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 325px;
+        min-width: 250px;
+        max-width: 300px;
+        padding: 15px 15px;
+        box-sizing: border-box;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        position: relative;
+        @media screen and (max-width: 1024px){
+            padding-left: 10px;
+            padding-right: 10px;
+            min-width: 200px;
+        }
+        @media screen and (max-width: 576px){
+            width: 100%;
+            max-width: 100%;
+        }
+        & > a{
+            display: block;
+            color: #333;
+            text-decoration: none;
+        }
+        &-img{
+            height: 150px;
+            img{
+                display: block;
+                width: 100%;
+                height: 100%;
+                object-fit: contain;
+            }
+        } // -img
+
+        &-text{
+            margin-top: 15px;
+            div{
+                margin-bottom: 7px;
+            }
+            @media screen and (max-width: 576px){
+                margin-top: 8px;
+            }
+        }
+        &-title{
+            font-weight: bolder;
+        }
+        &-shop{
+            font-size: 15px;
+        }
+
+        &-price{
+            display: flex;
+            flex-direction: column;
+            span{
+                &.sale{
+                    left: 20px;
+                }
+            }
+        }
+
+        &-basket{
+            margin-top: 10px;
+            height: 35px;
+        }
+    }
+}

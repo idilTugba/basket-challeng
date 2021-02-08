@@ -1,0 +1,12 @@
+node --version
+npm --version
+npx --version
+npm install --global gulp-cli
+npm init
+npm install gulp --save-dev
+npm install node-sass gulp-sass --save-dev
+npm install browser-sync --save-dev
+npm install gulp-uglify gulp-minify-css gulp-concat
+npm install --save-dev gulp-clean-css
+npm install gulp-rename --save-dev
+npm install --save-dev gulp-babel @babel/core @babel/preset-env

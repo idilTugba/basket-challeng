@@ -1,0 +1,110 @@
+[{
+  "id": 1,
+	"name": "hero Product Lorem Ipsum",
+  "detail": "Lorem ipsum dolor sit amet",
+  "oldPrice" : "120",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+	"hero": "OMG This just came out today!",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/940x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/100x300/999/CCC" }
+    ]
+},{
+  "id": 2,
+	"name": "Product 1 Lorem",
+	"detail": "Lorem ipsum dolor sit amet",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%8",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/600x300/999/CCC" }
+    ]
+},{
+  "id": 3,
+	"name": "Product 2 Lorem Ipsum mix Pro",
+  "detail": "Lorem ipsum dolor sit amet",
+  "oldPrice" : "110",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+	"offer": "BOGOF",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/600x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+    ]
+},{
+  "id": 4,
+	"name": "Product 3",
+	"detail": "Lorem ipsum dolor sit amet",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/900x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+    ]
+},{
+  "id": 5,
+	"name": "Product 4",
+	"detail": "Lorem ipsum dolor sit amet",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+	"offer": "No srsly GTFO",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/100x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+    ]
+},{
+  "id": 6,
+	"name": "Product 5",
+	"detail": "Lorem ipsum dolor sit amet",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/800x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+    ]
+},{
+  "id": 7,
+	"name": "Product 6",
+	"detail": "Lorem ipsum dolor sit amet",
+  "price": "99",
+  "cargo": "9.95",
+  "birim": "TL",
+  "tax": "%18",
+	"offer": "info with offer",
+    "files": [
+      { "id": 2, "name": "http://placehold.it/600x300/999/CCC" },
+      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+    ]
+}]
+
+

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">    
+        <title>Basket</title>
+
+        <link href="#" rel="Shortcut icon">
+        <link rel="stylesheet" href="dist/css/style.css" />
+
+        <style type="css"></style>
+        
+    </head>
+        
+    
+    <body>
+        <section class="user-basket">
+            <header>
+                <div class="container">
+                    <nav>
+                        <a href="index.html"><span class="icon-home"></span></a>
+                        <a href="basket.html"><span class="icon-cart"></span></a>
+                    </nav>
+                </div>
+            </header>
+            <div class="container">
+                <div class="user-basket__no-product">
+                    <p>Sepetinizde ürün bulunmamaktadır.</p>
+                    <a href="index.html" class="add-basket">Alışverişe başla</a>
+                </div>
+                <div class="user-basket__products">
+                    <div>
+                        <h2>SEPETİM</h2>
+                    </div>
+                    <div id="products-list">
+
+                    </div>
+                </div>
+                <div class="user-basket__order-summary">
+                    <div>
+                        <h3>SİPARİŞ ÖZETİ</h3>
+                    </div>
+                    <div class="user-basket__order-summary-products-total">
+                        <p>Ürün Toplam:</p>
+                        <span>3.345 TL</span>
+                    </div>
+                    <div class="user-basket__order-summary-tax">
+                        <p>Vergi Toplam:</p>
+                        <span>145 TL</span>
+                    </div>
+                    <div class="user-basket__order-summary-cargo">
+                        <p>Kargo Toplam:</p>
+                        <span>9.95 TL</span>
+                    </div>
+                    <div class="user-basket__order-summary-total">
+                        <span>TOPLAM:</span>
+                        <span id="total-price">4.458 TL</span>
+                    </div>
+                    <button class="add-basket user-basket__order-summary-buy">Sepeti Onayla</button>
+                </div>
+            </div>
+        </section>
+        
+        <script type="text/javascript" src="dist/js/all.js"></script>   
+        <script>
+            //localStorage.clear();
+            parseProduct.addBasket();
+            $.noContent();
+        </script> 
+    </body>
+</html>
+
