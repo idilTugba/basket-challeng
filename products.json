@@ -7,12 +7,11 @@
   "cargo": "9.95",
   "birim": "TL",
   "tax": "%18",
-	"hero": "OMG This just came out today!",
     "files": [
-      { "id": 2, "name": "http://placehold.it/940x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/100x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/940x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/100x300/999/CCC" }
     ]
 },{
   "id": 2,
@@ -23,8 +22,8 @@
   "birim": "TL",
   "tax": "%8",
     "files": [
-      { "id": 2, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/600x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/600x300/999/CCC" }
     ]
 },{
   "id": 3,
@@ -35,13 +34,12 @@
   "cargo": "9.95",
   "birim": "TL",
   "tax": "%18",
-	"offer": "BOGOF",
     "files": [
-      { "id": 2, "name": "http://placehold.it/600x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/600x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "6-i", "name": "http://placehold.it/300x300/999/CCC" }
     ]
 },{
   "id": 4,
@@ -52,11 +50,11 @@
   "birim": "TL",
   "tax": "%18",
     "files": [
-      { "id": 2, "name": "http://placehold.it/900x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/900x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "6-i", "name": "http://placehold.it/300x300/999/CCC" }
     ]
 },{
   "id": 5,
@@ -66,13 +64,12 @@
   "cargo": "9.95",
   "birim": "TL",
   "tax": "%18",
-	"offer": "No srsly GTFO",
     "files": [
-      { "id": 2, "name": "http://placehold.it/100x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/100x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "6-i", "name": "http://placehold.it/300x300/999/CCC" }
     ]
 },{
   "id": 6,
@@ -83,11 +80,11 @@
   "birim": "TL",
   "tax": "%18",
     "files": [
-      { "id": 2, "name": "http://placehold.it/800x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/800x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "6-i", "name": "http://placehold.it/300x300/999/CCC" }
     ]
 },{
   "id": 7,
@@ -97,13 +94,12 @@
   "cargo": "9.95",
   "birim": "TL",
   "tax": "%18",
-	"offer": "info with offer",
     "files": [
-      { "id": 2, "name": "http://placehold.it/600x300/999/CCC" },
-      { "id": 3, "name": "http://placehold.it/300x300/999/CCC" },
-      { "id": 4, "name": "http://placehold.it/400x300/999/CCC" },
-      { "id": 5, "name": "http://placehold.it/500x300/999/CCC" },
-      { "id": 6, "name": "http://placehold.it/300x300/999/CCC" }
+      { "id": "2-i", "name": "http://placehold.it/600x300/999/CCC" },
+      { "id": "3-i", "name": "http://placehold.it/300x300/999/CCC" },
+      { "id": "4-i", "name": "http://placehold.it/400x300/999/CCC" },
+      { "id": "5-i", "name": "http://placehold.it/500x300/999/CCC" },
+      { "id": "6-i", "name": "http://placehold.it/300x300/999/CCC" }
     ]
 }]
 
